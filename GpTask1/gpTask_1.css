@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(191, 219, 243);
+}
+nav{
+    background-color: white;
+    display: flex;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    justify-content: space-between;
+    padding: 5px;
+}
+nav .links{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+nav input{
+    border: none;
+    outline: none;
+}
+.search{
+    display: flex;
+    
+}
+   

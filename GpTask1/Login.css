@@ -1,0 +1,44 @@
+#main{ 
+    background-color: rgb(253, 251, 251);
+    display: flex;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    flex-direction: column;
+    width: 100%;
+    margin: auto;
+}
+body{background-color: rgb(224, 248, 248);}
+.required{
+    display: grid;  
+   
+}
+.required input{
+    padding: 10px 10px;
+    margin: 10px;
+    
+}
+.checkbox{
+    display: grid;
+    gap: 5px;
+}
+.checkbox span{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+button{     width: 100%;
+            padding: 10px 100px;
+            border-radius: 5px;
+            border: none;
+            font-size: large;
+            background-color: blue;
+            color: white;
+            display: flex;
+            align-content: center;
+            text-align: center;
+}
+.img img{
+     padding: 20px;
+}
